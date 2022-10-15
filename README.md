@@ -56,7 +56,7 @@ Deploy the contract to goerli network by running: `truffle deploy --network goer
 
 ## Mint tokens by running
 `node mint-goerli.js`
-![Minting tokens](\Udacity_Blockchain_Capstone-main\Screenshot351.png "Minting tokens")
+![Minting tokens](\RealEstateCapstoneProject\Screenshot350.png "Minting tokens")
 
 ## Contract ABIs
 contract ABI can be found in the following folder: eth-contracts/build/contracts
