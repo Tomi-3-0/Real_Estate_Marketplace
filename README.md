@@ -52,11 +52,11 @@ Deploy the contract to goerli network by running: `truffle deploy --network goer
 * SolnSquareVerifier contract address: 0x8b485436c95c9381cb498a650ea4157d51af943e
 * Verifier contract: 0x203b47cd61bcb569fcca830a965a03c1d5f9ab93
 
-![Deployment on goerli network](\Real_Estate_Capstone_Project\Real_Estate_Capstone_Project\Screenshot350.png "Contract deployment on goerli network")
+![Deployment on goerli network](\Real_Estate_Capstone_Project\Screenshot350.png "Contract deployment on goerli network")
 
 ## Mint tokens by running
 `node mint-goerli.js`
-![Minting tokens](\Real_Estate_Capstone_Project\Real_Estate_Capstone_Project\Screenshot351.png "Minting tokens")
+![Minting tokens](\Real_Estate_Capstone_Project\Screenshot351.png "Minting tokens")
 
 ## Contract ABIs
 contract ABI can be found in the following folder: eth-contracts/build/contracts
